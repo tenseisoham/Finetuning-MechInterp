@@ -1,4 +1,4 @@
-#Latent Space Collapse? Understanding the Effects of Narrow Fine-Tuning on LLMs
+# Latent Space Collapse? Understanding the Effects of Narrow Fine-Tuning on LLMs
 
 This project explores the effects of fine-tuning GPT-2 on a narrow sentiment classification task, specifically analyzing how fine-tuning restructures the model’s internal representation space. Using TransformerLens, we investigate:
 
